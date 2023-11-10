@@ -24,6 +24,10 @@ text-align: center;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    transition: 0.5s;
+}
+.owl-carousel{
+    transition: 0.5s;
 }
       .item{
         text-align: center;
