@@ -4,7 +4,7 @@
     padding: 0%;
     box-sizing: border-box;
 }
-.row{
+.home-demo .row{
     color: #5a2230;
 background-color: #f7f7f7;
 padding: 40px 0 40px 0;
@@ -19,31 +19,31 @@ text-align: center;
     background-position: center 15px;
 
 }
-.large-12{
+.row .large-12{
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
     transition: 0.5s;
 }
-      .item{
+.large-12 .owl-carousel .item{
         text-align: center;
   margin: 0 10px;
   
       }
-  .item a{
+.large-12 .owl-carousel .item a{
     text-decoration: none;
     width: 384px;
     height: 796px;
     margin-bottom: 10px;
 }
-  .item p{
+.large-12 .owl-carousel .item p{
     color: #5a2230;
     text-decoration: none;
     margin-top: 10px;
     
 }
-.item img{
+.large-12 .owl-carousel .item img{
     display: block;
     
     background-color: #fff;
